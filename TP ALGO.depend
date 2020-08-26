@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540286432 source:c:\users\sonia\desktop\tp algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1539898678 c:\users\sonia\desktop\tp algo\modele.h
+
+1539855420 c:\users\sonia\desktop\tp algo\modele.c
+	<stdio.h>
+	<stdlib.h>
+	"modele.h"
+
